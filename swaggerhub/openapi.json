@@ -29,7 +29,7 @@
       "get" : {
         "tags" : [ "employeeProfiles" ],
         "summary" : "Get a list of all the employee profiles",
-        "description" : "This returns the details about all the available employees",
+        "description" : "This returns the details about all the available employee profiles",
         "operationId" : "getEmployeeProfiles",
         "parameters" : [ {
           "name" : "Authorization",
